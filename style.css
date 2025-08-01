@@ -1,0 +1,156 @@
+
+
+main {
+    width: 100%;
+    height: 100vh;
+    /* background-image: linear-gradient(to top, black, yellow); */
+    background-image: url("./background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-news {
+    width: 100%;
+    height: 100vh;
+    /* background-image: linear-gradient(to top, black, yellow); */
+    background-image: url("https://sg-pubgmobile.playerinfinite.com/cms/nrft/feeds/pic/_a76f2a821b7e102c103af6bdf9d0a7dbebee31bd-2000x1125-ori_s_80_50_ori_q_80.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-Media {
+    width: 100%;
+    height: 100vh;
+    /* background-image: linear-gradient(to top, black, yellow); */
+    background-image: url("https://www.gamespot.com/a/uploads/original/3/37852/3925362-brextreme.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.main-community {
+    width: 100%;
+    height: 100vh;
+    /* background-image: linear-gradient(to top, black, yellow); */
+    background-image: url("https://assets-prd.ignimgs.com/2024/08/27/pubg-7th-anniversary-key-art-1724780016773.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.main-Support {
+    width: 100%;
+    height: 100vh;
+    /* background-image: linear-gradient(to top, black, yellow); */
+    background-image: url("https://pbs.twimg.com/media/GJT15kyXIAAEJdz?format=jpg&name=4096x4096");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+.qator1{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.pc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    width: 235px;
+    height: 73px;
+    background-color: #F1A900;
+}
+.console{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    width: 235px;
+    height: 73px;
+    background-color: black;
+    color: white;
+}
+.buttonlar{
+    display: block;
+}
+.erangel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 64px;
+    width: 920px;
+    height: 140px;
+    background-color: #F1A90054;
+    color: white;
+    margin-top: 50px;
+}
+.img{
+    width: 56px;
+height: 46px;
+margin-top: 18px;
+margin-bottom: 10px;
+margin-left: 57px;
+align-items: center;
+
+}
+
+.navbar{
+    width: 100%;
+    height: 20%;
+    background-color: black;
+    color:white;
+    display: flex;
+}
+nav{
+    width: 100%;
+    height: 20px;
+    background-color:#222222;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+nav a{
+    
+    text-decoration: none;
+    color: white;
+}
+.navba{
+    width: 100%;
+    height: 20%;
+    background-color: black;
+    color:white;
+    display: flex;
+}
+.ohiri{
+    gap: 20px;
+}
+
+
+
+
+
+
